@@ -1,6 +1,6 @@
-# Creación de un Oraculo para Ethereum
+# Creación de un Oráculo para Ethereum
 
-## Creamos un Smart Contract y un servicio de escucha en nodejs
+## Creamos un Smart Contract y un servicio de oráculo en nodejs
 
 
 
